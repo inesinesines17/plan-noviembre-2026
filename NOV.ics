@@ -1,0 +1,895 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plan Estudios y 10K Noviembre 2026//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mi plan 10K + exámenes · Nov 2026
+X-WR-TIMEZONE:America/Santiago
+BEGIN:VEVENT
+UID:41ed1c0c-37a0-5cf2-8610-2b965b523ca3@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261112T171500
+DTEND;TZID=America/Santiago:20261112T201500
+SUMMARY:ENTREGA · Redactar informe Física 140
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:ENTREGA · Redactar informe Física 140
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:110acee8-1e1e-5a4b-931b-9cb80f6a0401@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261112T201500
+DTEND;TZID=America/Santiago:20261112T204000
+SUMMARY:DEPORTE · Paseo y movilidad suave
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:7e15c7fb-a249-544b-bc7f-e3c8ecd63fc8@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261112T204000
+DTEND;TZID=America/Santiago:20261112T213000
+SUMMARY:LIBRE · Cena y prepararte
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:bbeba5f2-e053-5e22-ab52-6bae3ad21a7f@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261112T213000
+DTEND;TZID=America/Santiago:20261112T220000
+SUMMARY:ENTREGA · Revisión y envío informe Física 140
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:ENTREGA · Revisión y envío informe Física 140
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:26481b6c-57fb-5a4c-bb1c-a31f4aa39e43@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261112T220000
+DTEND;TZID=America/Santiago:20261112T235500
+SUMMARY:SOCIAL · Fiesta
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:470dd991-4670-5a3b-a785-c8c75e323d9c@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261113T120000
+DTEND;TZID=America/Santiago:20261113T130000
+SUMMARY:Descanso · Desayuno y despertar
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:fa26c3e1-45a8-5735-b658-f29047777e0b@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261113T130000
+DTEND;TZID=America/Santiago:20261113T143000
+SUMMARY:INFOSOC · Propiedad intelectual
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:b1e8a5cd-b320-5fd5-a1ca-f0621c69edd5@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261113T143000
+DTEND;TZID=America/Santiago:20261113T160000
+SUMMARY:LIBRE · Comida y descanso
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:209f0fd8-1f1b-5fda-87ec-027e977561a2@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261113T160000
+DTEND;TZID=America/Santiago:20261113T171500
+SUMMARY:INFOSOC · Código abierto y software libre
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:30993d29-ffd0-5e34-b229-083c2bc248e1@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261113T173000
+DTEND;TZID=America/Santiago:20261113T180000
+SUMMARY:DEPORTE · Caminar o bici muy suave
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:812ec623-de01-5775-9327-1d8c136398bc@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261113T180000
+DTEND;TZID=America/Santiago:20261113T213000
+SUMMARY:LIBRE · Cena y prepararte
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:3bcb02c6-66b6-54d1-8cb3-f4440ba2cd6a@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261113T213000
+DTEND;TZID=America/Santiago:20261113T235500
+SUMMARY:SOCIAL · Fiesta
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:18a05e13-d542-58e0-88c3-e44f0de68fc1@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261114T123000
+DTEND;TZID=America/Santiago:20261114T133000
+SUMMARY:Descanso · Despertar y desayuno
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:ffe192fb-d8d4-5c7e-9880-02bab8d3a5f8@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261114T133000
+DTEND;TZID=America/Santiago:20261114T150000
+SUMMARY:INFOSOC · Ética y código ACM
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:063d025a-bbe7-5bf4-a796-380866db6264@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261114T150000
+DTEND;TZID=America/Santiago:20261114T170000
+SUMMARY:LIBRE · Comida y descanso
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:efea92ff-b8d5-5b13-9187-db42866fd24c@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261114T170000
+DTEND;TZID=America/Santiago:20261114T174000
+SUMMARY:DEPORTE · Trote de prueba opcional
+DESCRIPTION:Si las agujetas persisten: caminar en vez de correr. No forzar.
+END:VEVENT
+BEGIN:VEVENT
+UID:4acbe752-3372-5d6c-9a3f-9ebf3baf7c5f@plan-ines
+DTSTAMP:20261113T131400Z
+DTSTART;TZID=America/Santiago:20261114T180000
+DTEND;TZID=America/Santiago:20261114T190000
+SUMMARY:FIS140 · Normalización de la función de onda
+DESCRIPTION:Clase 1\, parte 2 (1/4) — Ejercicios paso a paso.\nObjetivo: 
+ comprender la condición integral_0^L |ψ(x)|² dx = 1 y hallar A.\nEjerci
+ cio principal: ψ(x) = A sen(πx/L).\nGuion: (1) sustituir en la integral\
+ ; (2) sacar A²\; (3) usar sen²θ=(1−cos 2θ)/2\; (4) integrar y evalua
+ r 0\,L\; (5) despejar A=√(2/L).\nPráctica: repetir sin mirar los apunte
+ s y justificar por qué A² sale de la integral.\nResultado esperado: ψ
+ ₁(x)=√(2/L) sen(πx/L).
+LAST-MODIFIED:20261113T131400Z
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:09b28231-c4cb-5330-baab-d73bd76fdca3@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261114T190000
+DTEND;TZID=America/Santiago:20261114T210000
+SUMMARY:LIBRE · Tarde/noche
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:cd3407a2-adc1-5c42-a17e-b79bc4e143c3@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261115T103000
+DTEND;TZID=America/Santiago:20261115T123000
+SUMMARY:MICRO · Informe: resultados y análisis
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:87cc3a4e-7a82-582e-8d66-5386d906704f@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261115T123000
+DTEND;TZID=America/Santiago:20261115T131500
+SUMMARY:DEPORTE · 4–5 km fáciles
+DESCRIPTION:Solo si el trote de prueba fue sin dolor. Ritmo conversacional.
+END:VEVENT
+BEGIN:VEVENT
+UID:734d330f-6fb5-5c15-89e3-29bfdeb7bcc0@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261115T133000
+DTEND;TZID=America/Santiago:20261115T153000
+SUMMARY:LIBRE · Comida y descanso
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:0a2ffb1d-8e2a-5e07-aa91-cbd1d2f0d7a9@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261115T153000
+DTEND;TZID=America/Santiago:20261115T170000
+SUMMARY:INFOSOC · Sesgos y pensamiento crítico
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:173d8c9b-586c-5bb4-840c-48a64b4c112d@plan-ines
+DTSTAMP:20261113T131400Z
+DTSTART;TZID=America/Santiago:20261115T171500
+DTEND;TZID=America/Santiago:20261115T181500
+SUMMARY:FIS140 · Probabilidad en el pozo infinito
+DESCRIPTION:Clase 1\, parte 2 (2/4) — Calcular probabilidades usando la f
+ unción normalizada.\nRecordatorio: P(a<x<b) = integral_a^b |ψ(x)|² dx.\
+ nEjercicio: con ψ₁(x)=√(2/L) sen(πx/L)\, calcula P(0<x<L/2).\nUsa se
+ n²θ=(1−cos2θ)/2 e integra\; verifica que el resultado es 1/2 (50 %).\
+ nExplica por qué 50 % en media caja NO significa densidad uniforme.\nExtr
+ a: plantea P(L/4<x<3L/4)\, dejando el resultado en forma exacta.
+LAST-MODIFIED:20261113T131400Z
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:3f75761a-e8ff-552f-970d-e6b937b5a97b@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261115T183000
+DTEND;TZID=America/Santiago:20261115T210000
+SUMMARY:LIBRE · Tarde
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:95ef4a69-afa0-50dd-b9a2-55d48a6e18ef@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261116T100000
+DTEND;TZID=America/Santiago:20261116T113000
+SUMMARY:MICRO · Informe discusión y conclusiones
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:189cecdb-ce68-5486-a4ee-18920cf2af09@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261116T115000
+DTEND;TZID=America/Santiago:20261116T123000
+SUMMARY:TRAYECTO · Ida a clase
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:6af71511-97ad-5f6d-8c01-c0de35470c14@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261116T123000
+DTEND;TZID=America/Santiago:20261116T155000
+SUMMARY:CLASES · Universidad
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:a4079e60-1d2b-5307-af51-29c64fc1036a@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261116T155000
+DTEND;TZID=America/Santiago:20261116T163000
+SUMMARY:TRAYECTO · Vuelta a casa
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:c12a643b-77ca-5232-88ea-0927db7e857f@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261116T163000
+DTEND;TZID=America/Santiago:20261116T173000
+SUMMARY:LIBRE · Comida y descanso
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:1763ad0c-5115-5635-803a-216436f4c7f8@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261116T173000
+DTEND;TZID=America/Santiago:20261116T181500
+SUMMARY:DEPORTE · Fuerza ligera y movilidad
+DESCRIPTION:Sin trabajar piernas hasta el fallo ni generar agujetas nuevas.
+END:VEVENT
+BEGIN:VEVENT
+UID:f68cf2d6-c1e9-520d-92dd-6846bb73dc0e@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261116T184500
+DTEND;TZID=America/Santiago:20261116T201500
+SUMMARY:INFOSOC · Legislación digital
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:85fc9743-9a23-5b49-8de3-a3f171b5fba8@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261117T103000
+DTEND;TZID=America/Santiago:20261117T123000
+SUMMARY:MICRO · Terminar y entregar informe
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:79807aec-bfcb-5728-b993-b9c28ccacf8a@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261117T123000
+DTEND;TZID=America/Santiago:20261117T131500
+SUMMARY:DEPORTE · Rodaje con 2 bloques controlados
+DESCRIPTION:10 min suaves + 2 x 5 min cerca de 5:40–5:50/km (3 min suaves
+ ) + vuelta a calma. Si hay dolor: bici suave.
+END:VEVENT
+BEGIN:VEVENT
+UID:4eacb164-20aa-599c-ac80-9c41288764c3@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261117T131500
+DTEND;TZID=America/Santiago:20261117T150000
+SUMMARY:LIBRE · Comida y ducha
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:1c8e1491-1611-5959-975f-4166542674d5@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261117T150000
+DTEND;TZID=America/Santiago:20261117T163000
+SUMMARY:INFOSOC · Deuda técnica y proyectos
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:b8fa81a5-d84c-5ed6-9237-9ab556e08253@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261117T164500
+DTEND;TZID=America/Santiago:20261117T180000
+SUMMARY:MICRO · Ensayar presentación 2 veces
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:39603138-664b-5fe3-8555-86f741821f7e@plan-ines
+DTSTAMP:20261113T131400Z
+DTSTART;TZID=America/Santiago:20261117T180000
+DTEND;TZID=America/Santiago:20261117T190000
+SUMMARY:FIS140 · Energías del pozo infinito + fotones
+DESCRIPTION:Clase 1\, parte 2 (3/4) — Niveles cuantizados.\nFórmula: E_n
+ =n²h²/(8mL²)\, n=1\,2\,3\,...\; 1 Å=10^(-10) m\; 1 eV≈1\,602×10^(-1
+ 9) J.\nEjercicio de pauta: electrón\, L=1\,42 Å. Calcula E₁≈18\,7 eV
+ \; E₂=4E₁≈74\,8 eV\; E₃=9E₁≈168\,3 eV.\nTransición 2→1: E_f
+ otón=E₂−E₁≈56\,1 eV.\nMini certamen SIN calculadora: si E₁=5 eV
+ \, calcula E₂\, E₃ y la energía emitida en 2→1.\nMeta: resolver de 
+ cero sin consultar los pasos.
+LAST-MODIFIED:20261113T131400Z
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:64c9d8fe-2df8-5207-952e-d5a25c984d95@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261118T074500
+DTEND;TZID=America/Santiago:20261118T083000
+SUMMARY:Preparación · Desayuno y exposición
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:b8f5ae15-b410-536c-ae20-8d6911cf9a9a@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261118T083000
+DTEND;TZID=America/Santiago:20261118T091000
+SUMMARY:TRAYECTO · Ida a clase
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:d619a7e1-72a1-55b2-8260-0f4624bc78d0@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261118T094000
+DTEND;TZID=America/Santiago:20261118T105000
+SUMMARY:CLASES · Universidad
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:9b406cfe-a4d4-5f97-b26a-f26658af4ead@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261118T105000
+DTEND;TZID=America/Santiago:20261118T122000
+SUMMARY:MICRO · Repaso presentación / pausa
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:c2ff5c34-30ff-5310-810b-4792a530d275@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261118T123000
+DTEND;TZID=America/Santiago:20261118T134000
+SUMMARY:CLASES · Universidad / presentación
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:e376c855-bb6c-5f88-9661-f0ae17ee73cd@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261118T134000
+DTEND;TZID=America/Santiago:20261118T142000
+SUMMARY:TRAYECTO · Vuelta a casa
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:6ef6e24f-fa7b-5787-b395-debe1a1378c1@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261118T142000
+DTEND;TZID=America/Santiago:20261118T160000
+SUMMARY:LIBRE · Comida y descanso
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:28541e42-6b9f-5361-a120-035f7e92b879@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261118T160000
+DTEND;TZID=America/Santiago:20261118T164000
+SUMMARY:DEPORTE · Yoga y movilidad
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:76d99d33-aba9-5843-8c8a-c861119a4fea@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261118T170000
+DTEND;TZID=America/Santiago:20261118T183000
+SUMMARY:INFOSOC · Exámenes anteriores
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:16c88a07-3cde-5275-9865-d8f09178ec66@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261119T103000
+DTEND;TZID=America/Santiago:20261119T123000
+SUMMARY:INFOSOC · Simulacro 1
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:4f4cce95-d566-5123-b080-55bacbd821ae@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261119T123000
+DTEND;TZID=America/Santiago:20261119T131500
+SUMMARY:DEPORTE · Rodaje fácil 3–4 km
+DESCRIPTION:Con 3 progresivos de 15 s solamente si te encuentras bien.
+END:VEVENT
+BEGIN:VEVENT
+UID:0cd1722f-0068-5070-964e-90d2be38fbf7@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261119T133000
+DTEND;TZID=America/Santiago:20261119T153000
+SUMMARY:LIBRE · Comida y descanso
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:483f1db3-ab0d-5281-9b5f-da3d8ac38255@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261119T153000
+DTEND;TZID=America/Santiago:20261119T170000
+SUMMARY:INFOSOC · Corregir simulacro
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:cc9933da-623a-5855-9bcf-985cf8abbf31@plan-ines
+DTSTAMP:20261113T131400Z
+DTSTART;TZID=America/Santiago:20261119T171500
+DTEND;TZID=America/Santiago:20261119T181500
+SUMMARY:FIS140 · Schrödinger\, fronteras y simulacro
+DESCRIPTION:Clase 1\, continuación (4/4) — Consolidar el pozo infinito.\
+ nRevisar condiciones de frontera: ψ(0)=ψ(L)=0\, n entero positivo.\nCone
+ ctar la ecuación de Schrödinger independiente del tiempo con las solucio
+ nes senoidales y E_n∝n².\nPráctica de 60 min: 15 min deducción guiada
+ \; 35 min tres problemas (normalizar\, calcular una probabilidad\, calcula
+ r niveles y fotón)\; 10 min autocorrección.\nSi la deducción todavía n
+ o se ha trabajado\, usar el bloque para reforzar los ejercicios de la clas
+ e 1 parte 2.
+LAST-MODIFIED:20261113T131400Z
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:0a15a537-11e6-504b-b1e0-dcf04f874fed@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261119T181500
+DTEND;TZID=America/Santiago:20261119T190000
+SUMMARY:MICRO · Certamen 2: primer repaso
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:db9e85e6-36b0-5a3f-b5af-3ca63ac767c6@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261120T103000
+DTEND;TZID=America/Santiago:20261120T123000
+SUMMARY:INFOSOC · Simulacro 2
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:3c5ab578-ca05-5fe8-a20d-36e53bc32529@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261120T123000
+DTEND;TZID=America/Santiago:20261120T143000
+SUMMARY:LIBRE · Comida y descanso
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:560df1c8-d379-5409-bfb8-f60f6e79bb3a@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261120T143000
+DTEND;TZID=America/Santiago:20261120T160000
+SUMMARY:INFOSOC · Corregir y repasar errores
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:686be1eb-cc7f-5d73-87fa-e760a07fadd4@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261120T160000
+DTEND;TZID=America/Santiago:20261120T163000
+SUMMARY:DEPORTE · Paseo y movilidad
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:0bf4e83b-b5c2-5554-a6b7-79f7f5ecc03e@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261120T170000
+DTEND;TZID=America/Santiago:20261120T180000
+SUMMARY:INFOSOC · Repaso final
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:d459fa8a-59fb-5d20-8dfd-9be0ef0af805@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261120T180000
+DTEND;TZID=America/Santiago:20261120T210000
+SUMMARY:LIBRE · Cena y prepararte
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:eb6a3fe2-bffe-5eff-a199-13c2828bb859@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261120T210000
+DTEND;TZID=America/Santiago:20261120T233000
+SUMMARY:SOCIAL · Fiesta corta (recomendado)
+DESCRIPTION:Examen temprano el sábado 21\; dormir y evitar excesos.
+END:VEVENT
+BEGIN:VEVENT
+UID:02782ed8-9005-578c-99a9-9964555c386b@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261121T071500
+DTEND;TZID=America/Santiago:20261121T074500
+SUMMARY:Despertar · Desayuno antes de examen
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:0851fc0d-c4e8-557a-84ad-edbed65fb56a@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261121T074500
+DTEND;TZID=America/Santiago:20261121T082000
+SUMMARY:INFOSOC · Repaso ligero (nada nuevo)
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:ec41a34d-6505-54a7-a74b-09bf07fbcfd4@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261121T083000
+DTEND;TZID=America/Santiago:20261121T091000
+SUMMARY:TRAYECTO · Examen
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:8c90c82f-5c2c-5f1a-a991-dc18e15ae934@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261121T094000
+DTEND;TZID=America/Santiago:20261121T114000
+SUMMARY:EXAMEN · Infosoc 9:40
+DESCRIPTION:Duración de 2 h provisional\; modifica el final cuando lo sepa
+ s.
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:EXAMEN · Infosoc 9:40
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:947b146b-d06d-5f2f-85ee-8102002c0b94@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261121T120000
+DTEND;TZID=America/Santiago:20261121T130000
+SUMMARY:LIBRE · Comer y descansar
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:5de5e6f0-3fbf-58d6-9222-0b42057d107d@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261121T170000
+DTEND;TZID=America/Santiago:20261121T172000
+SUMMARY:DEPORTE · Paseo muy suave
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:e586658c-1a5e-5fbf-8680-94ba3a58bb30@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261121T180000
+DTEND;TZID=America/Santiago:20261121T220000
+SUMMARY:LIBRE · Descanso previo a la carrera
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:53f94d31-7cc9-5bba-9812-fc0b99b281b4@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261122T080000
+DTEND;TZID=America/Santiago:20261122T094000
+SUMMARY:CARRERA · 10K (hora por confirmar)
+DESCRIPTION:La carrera es el domingo 22. La hora 08:00 se ha puesto provisi
+ onalmente: cambia el inicio a la hora oficial. Objetivo 56:40 = ritmo medi
+ o 5:40/km\; salir controlada.
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:CARRERA · 10K (hora por confirmar)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3677c38b-724e-5c4c-a9ae-6069aae1da91@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261122T100000
+DTEND;TZID=America/Santiago:20261122T123000
+SUMMARY:LIBRE · Recuperación postcarrera
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:d8818b38-d129-59c8-9573-fafc1d1684cc@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261122T170000
+DTEND;TZID=America/Santiago:20261122T180000
+SUMMARY:MICRO · Lectura ligera si estás bien
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:7cb315b3-34f1-5d06-8bf6-4ed96440c868@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261122T180000
+DTEND;TZID=America/Santiago:20261122T210000
+SUMMARY:LIBRE · Descanso
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:4e834fb2-b7ca-573f-8917-32a54fd4a446@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261123T100000
+DTEND;TZID=America/Santiago:20261123T113000
+SUMMARY:MICRO · Certamen 2 bloque 1
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:ec7ec988-ad82-583b-87b3-cbb30ffceaac@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261123T115000
+DTEND;TZID=America/Santiago:20261123T123000
+SUMMARY:TRAYECTO · Ida a clase
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:580e5116-e3a4-5347-9283-6733845e2b50@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261123T123000
+DTEND;TZID=America/Santiago:20261123T155000
+SUMMARY:CLASES · Universidad
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:85fd2f6a-1db8-57f8-821a-3c1491bf9556@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261123T155000
+DTEND;TZID=America/Santiago:20261123T163000
+SUMMARY:TRAYECTO · Vuelta a casa
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:4bd3b90f-598f-5c8c-ae86-3c2126b529b9@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261123T163000
+DTEND;TZID=America/Santiago:20261123T173000
+SUMMARY:LIBRE · Comida y descanso
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:22f205c3-24ba-5c4d-856b-3c9a0b3245fe@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261123T173000
+DTEND;TZID=America/Santiago:20261123T180000
+SUMMARY:DEPORTE · Recuperación activa (caminar)
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:d3e490d8-9662-54f3-b0af-deb983b6fc80@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261123T181500
+DTEND;TZID=America/Santiago:20261123T201500
+SUMMARY:MICRO · Certamen 2 bloque 2
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:ec46c4da-8c6d-5261-92d9-b1fd8ac039b2@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261124T103000
+DTEND;TZID=America/Santiago:20261124T123000
+SUMMARY:MICRO · Certamen 2 bloque 3
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:97986745-9fee-50b7-b09c-4f719f695da4@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261124T123000
+DTEND;TZID=America/Santiago:20261124T130000
+SUMMARY:DEPORTE · Yoga o paseo suave
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:feafe9a5-20a4-52e4-be6e-7c1dc11ccb70@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261124T130000
+DTEND;TZID=America/Santiago:20261124T150000
+SUMMARY:LIBRE · Comida y descanso
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:7545b800-b4ba-5fa7-81e7-ed1052947b74@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261124T150000
+DTEND;TZID=America/Santiago:20261124T170000
+SUMMARY:MICRO · Preguntas y ejercicios
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:8c2535d5-3d11-5039-8b5d-e29854732a54@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261124T171500
+DTEND;TZID=America/Santiago:20261124T183000
+SUMMARY:MICRO · Simulacro y corrección
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:9c2a8bb7-35d8-56c1-b232-88c49edaca9d@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261124T190000
+DTEND;TZID=America/Santiago:20261124T210000
+SUMMARY:LIBRE · Tarde
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:c9d1970d-57eb-568a-956a-6a4495ac4c2e@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261125T074500
+DTEND;TZID=America/Santiago:20261125T083000
+SUMMARY:Preparación · Desayuno y repaso Micro
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:49761a93-3402-5d4c-a58a-5b5cb5a38302@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261125T083000
+DTEND;TZID=America/Santiago:20261125T091000
+SUMMARY:TRAYECTO · Ida a clase
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:4f98ab68-95cd-5481-840d-644bee4fcc17@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261125T094000
+DTEND;TZID=America/Santiago:20261125T105000
+SUMMARY:CLASES · Universidad
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:76778a37-5f28-5292-9428-feb87e72e131@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261125T105000
+DTEND;TZID=America/Santiago:20261125T122000
+SUMMARY:MICRO · Último repaso / certamen según horario
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:7e941181-1a90-521f-9f5d-ecf798dff503@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261125T123000
+DTEND;TZID=America/Santiago:20261125T134000
+SUMMARY:CLASES · Universidad
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:9a1d59a3-b6d5-5ef4-98ab-735c5bd2b4c0@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261125T134000
+DTEND;TZID=America/Santiago:20261125T142000
+SUMMARY:TRAYECTO · Vuelta a casa
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:9374620c-fb50-5460-8d3d-63146d0796a6@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261125T170000
+DTEND;TZID=America/Santiago:20261125T173000
+SUMMARY:DEPORTE · Paseo o movilidad
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:f8cde392-7da0-5f08-b019-ede279f70692@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;TZID=America/Santiago:20261125T180000
+DTEND;TZID=America/Santiago:20261125T210000
+SUMMARY:LIBRE · Descanso
+DESCRIPTION:Plan personal de noviembre 2026. Ajustable según energía y ob
+ ligaciones.
+END:VEVENT
+BEGIN:VEVENT
+UID:46302ec8-830a-570d-b0af-50fe497a30c6@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:ENTREGA · Informe Física 140
+DESCRIPTION:Fecha de entrega\; hora no comunicada.
+END:VEVENT
+BEGIN:VEVENT
+UID:970e5bd6-f519-51c1-a28b-a1a42e3823ff@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:ENTREGA · Informe Microbiología + PRESENTACIÓN
+DESCRIPTION:Ideal entregar informe el martes 17.
+END:VEVENT
+BEGIN:VEVENT
+UID:64174b0b-11fb-50b3-959d-d29ded12ab3e@plan-ines
+DTSTAMP:20261112T201000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:EXAMEN · Certamen 2 Microbiología (hora pendiente)
+DESCRIPTION:Consultar hora del certamen.
+END:VEVENT
+END:VCALENDAR
